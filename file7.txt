@@ -1,1 +1,2 @@
-This is file7.txt
+This is file7.txt.
+This is second line of text.
